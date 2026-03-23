@@ -49,4 +49,4 @@ The tasks within this repository are structured to demonstrate a comprehensive u
 
 ---
 
-Thank you for reviewing my work. Please explore the individual project directories for detailed Jupyter Notebooks, heavily commented Python code, and interactive visual deployments.
+Thank you for reviewing my work. Please explore the individual project directories for detailed Jupyter Notebooks, and interactive visual deployments.
