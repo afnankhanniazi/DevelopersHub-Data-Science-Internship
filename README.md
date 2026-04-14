@@ -1,7 +1,7 @@
 # DevelopersHub Data Science & Analytics Portfolio
 
 ## 📌 Overview
-This repository contains my completed portfolio projects for the Data Science & Analytics Internship at DevelopersHub Corporation. The tasks demonstrate end-to-end data pipeline competencies: from raw data ingestion and exploratory data analysis (EDA), to advanced machine learning modeling, time-series forecasting, and interactive deployment.
+This repository contains my completed portfolio projects for the Data Science & Analytics Program at DevelopersHub Corporation. The tasks demonstrate end-to-end data pipeline competencies: from raw data ingestion and exploratory data analysis (EDA), to advanced machine learning modeling, time-series forecasting, and interactive deployment.
 
 ## 👨‍💻 About Me
 As a final-year Computer Science student actively pursuing Graduate Trainee and Junior Data Scientist roles, my objective is to bridge the gap between complex mathematical algorithms and actionable business intelligence. 
@@ -17,12 +17,12 @@ As a final-year Computer Science student actively pursuing Graduate Trainee and 
 
 ---
 
-## 🚀 Phase 2: Advanced Internship Tasks
+## 🚀 Phase 2: Advanced Tasks
 
-### 1. Iris Species Classification (Supervised Learning)
-- **Objective:** Classify botanical species based on physical dimensions.
+### 1. Term Deposit Subscription Prediction (Bank Marketing)
+- **Objective:** Predict whether retail banking customers will subscribe to a term deposit investment to optimize telemarketing resources.
 - **Algorithm:** Random Forest Classifier.
-- **Key Insight:** Achieved 100% predictive accuracy. Extracted internal feature importance to prove that petal dimensions are the sole biological indicators required, allowing future researchers to abandon sepal measurements and optimize data collection.
+- **Key Insight:** Achieved 84.10% overall accuracy and successfully identified 86% of actual buyers. Proved mathematically that Call Duration and Account Balance are the dominant predictors of conversion, signaling a critical need to pivot to targeted, high-balance calling lists.
 
 ### 2. Customer Segmentation (Unsupervised Learning)
 - **Objective:** Group mall customers based on spending habits to optimize marketing ad spend.
@@ -36,12 +36,12 @@ As a final-year Computer Science student actively pursuing Graduate Trainee and 
 
 ---
 
-## 🏗️ Phase 1: Foundation Internship Tasks
+## 🏗️ Phase 1: Foundation Tasks
 
-### 1. Advanced EDA on the Iris Dataset
-- **Objective:** Identify distinctions between species through rigorous mathematical and visual EDA.
-- **Techniques:** Seaborn Pairplots, Feature Correlation Heatmaps.
-- **Key Insight:** Mathematically proved a near-perfect positive correlation (0.96) between petal length and width, establishing the foundation for dimensionality reduction in massive biological datasets.
+### 1. Iris Species Classification (Supervised Learning)
+- **Objective:** Classify botanical species based on physical dimensions.
+- **Algorithm:** Random Forest Classifier.
+- **Key Insight:** Achieved 100% predictive accuracy. Extracted internal feature importance to prove that petal dimensions are the sole biological indicators required, allowing future researchers to abandon sepal measurements and optimize data collection.
 
 ### 2. Credit Risk and Loan Approval Prediction
 - **Objective:** Engineer a classification engine to predict bank loan defaults and minimize institutional risk.
